@@ -20,7 +20,7 @@ npm install your-pixel-icons
 ## Usage
 
 ```tsx
-import { HomeIcon, HeartIcon, StarIcon } from 'your-pixel-icons';
+import { HomeIcon, HeartIcon, StarIcon } from 'c00l-pixel-icons';
 
 function App() {
   return (
