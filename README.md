@@ -1,4 +1,4 @@
-# Pixel Icon Library
+# c00l pixel icons
 
 A collection of retro pixel art React icon components with a nostalgic 8-bit aesthetic. Perfect for retro-themed projects, games, or anyone looking for that distinctive pixel art style.
 
